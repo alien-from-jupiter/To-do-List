@@ -1,0 +1,16 @@
+/* Add this below all the other styles */
+
+.empty-state {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.checklist-icon {
+  margin-bottom: 20px;
+}
+
+.empty-state__title, .empty-state__description {
+  margin-bottom: 20px;
+}
